@@ -5,6 +5,7 @@ Abusive,negative
 Accessible,positive
 Active,positive
 Adaptable,positive
+Addictive,neutral
 Admirable,positive
 Adorable,positive
 Adventurous,positive
@@ -53,6 +54,7 @@ Beautiful,positive
 Belligerent,negative
 Benevolent,positive
 Best,positive
+BestGameEver,positive
 Bewildered,negative
 Big-headed,negative
 BigHeaded,negative
@@ -121,6 +123,7 @@ Complaintive,negative
 Compulsive,negative
 Conceited,negative
 Conciliatory,positive
+Concurrency,neutral
 Condemnatory,negative
 Confident,positive
 Conformist,negative
@@ -175,6 +178,7 @@ Delicious,positive
 Delightful,positive
 Demanding,negative
 Demonic,negative
+Dense,neutral
 Dependent,negative
 Depressed,negative
 Deranged,negative
@@ -224,6 +228,7 @@ Eager,positive
 Earnest,positive
 Easily Discouraged,negative
 Easygoing,positive
+EasyToGetStarted,positive
 Ebullient,positive
 Educated,positive
 Efficient,positive
@@ -241,9 +246,11 @@ Energetic,positive
 Enervated,negative
 Entertaining,positive
 Enthusiastic,positive
+Enveloping,positive
 Envious,negative
 Erratic,negative
 Escapist,negative
+Especial,positive
 Esthetic,positive
 Evasive,negative
 Evil,negative
@@ -306,6 +313,7 @@ Fretful,negative
 Friendly,positive
 Frightening,negative
 Frivolous,negative
+Fun,positive
 Fun-loving,positive
 FunLoving,positive
 Funny,positive
@@ -324,6 +332,8 @@ GoodNatured,positive
 Graceless,negative
 Gracious,positive
 Grand,negative
+Greatest,positive
+GreatTooling,positive
 Greedy,negative
 Gregarious,positive
 Grieving,negative
@@ -352,6 +362,7 @@ High-handed,negative
 High-minded,positive
 Hilarious,positive
 Homeless,negative
+Homoiconic,neutral
 Honest,positive
 Honorable,positive
 Horrible,negative
@@ -367,6 +378,7 @@ Imaginative,positive
 Imitative,negative
 Impartial,positive
 Impatient,negative
+Imperfect,negative
 Impolite,negative
 Impractical,negative
 Impressive,positive
@@ -379,6 +391,7 @@ Incorruptible,positive
 Incurious,negative
 Indecisive,negative
 Independent,positive
+Indie,neutral
 Indiscreet,negative
 Individualistic,positive
 Indolent,negative
@@ -437,6 +450,7 @@ Loyal,positive
 Lucky,positive
 Lyrical,positive
 Machiavellian,negative
+Magical,positive
 Magnanimous,positive
 Malicious,negative
 Mannered,negative
@@ -526,6 +540,7 @@ Peaceful,positive
 Pedantic,negative
 Perceptive,positive
 Perfect,positive
+Perfection,positive
 Perfectionist,positive
 Persistent ,positive
 Personable,positive
@@ -534,6 +549,7 @@ Perverse,negative
 Pessimistic,negative
 Petty,negative
 Pharissical,negative
+Phenomenal,positive
 Philosophical,positive
 Phlegmatic,negative
 Pioneering,positive
@@ -608,6 +624,7 @@ Respectful,positive
 Responsive,positive
 Reverential,positive
 Rhetorical,positive
+Rich,neutral
 Ridiculous,negative
 Righteous,positive
 Rigid,negative
